@@ -1,4 +1,4 @@
-<mxfile type="github" version="13.7.3" host="app.diagrams.net" modified="2020-09-20T12:17:01.670Z" agent="5.0 (Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; McAfee; Zoom 3.6.0; rv:11.0) like Gecko" etag="j1OO0BDpZIn6gpM6PLGf">
+<mxfile type="github" version="13.7.3" host="app.diagrams.net" modified="2020-09-20T12:18:59.190Z" agent="5.0 (Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; McAfee; Zoom 3.6.0; rv:11.0) like Gecko" etag="EM5j9y63qHWDVut2NhrU">
   <diagram id="2uesMoYBQppb85EzikAu" name="Page-1">
     <mxGraphModel grid="0" dx="1422" dy="787" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" background="none">
       <root>
@@ -90,22 +90,16 @@
         <mxCell value="UP02. contact information" id="01HrcIv9IHzVNZrcpmlx-54" parent="1" style="ellipse;whiteSpace=wrap;html=1;" vertex="1">
           <mxGeometry as="geometry" height="80" width="171" x="287" y="250" />
         </mxCell>
-        <mxCell value="UP03. login" id="01HrcIv9IHzVNZrcpmlx-55" parent="1" style="ellipse;whiteSpace=wrap;html=1;" vertex="1">
+        <mxCell value="UP04. login" id="01HrcIv9IHzVNZrcpmlx-55" parent="1" style="ellipse;whiteSpace=wrap;html=1;" vertex="1">
           <mxGeometry as="geometry" height="61" width="163" x="287" y="359" />
         </mxCell>
-        <mxCell value="UP04. user information management" id="01HrcIv9IHzVNZrcpmlx-56" parent="1" style="ellipse;whiteSpace=wrap;html=1;" vertex="1">
-          <mxGeometry as="geometry" height="80" width="186" x="593" y="242" />
+        <mxCell value="UP03. user information management" id="01HrcIv9IHzVNZrcpmlx-56" parent="1" style="ellipse;whiteSpace=wrap;html=1;" vertex="1">
+          <mxGeometry as="geometry" height="80" width="186" x="559" y="187" />
         </mxCell>
         <mxCell value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" id="01HrcIv9IHzVNZrcpmlx-58" parent="1" style="endArrow=open;endSize=12;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="01HrcIv9IHzVNZrcpmlx-56" source="01HrcIv9IHzVNZrcpmlx-52" edge="1">
           <mxGeometry as="geometry" width="160" relative="1">
             <mxPoint as="sourcePoint" x="443" y="215" />
             <mxPoint as="targetPoint" x="490" y="328" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" id="01HrcIv9IHzVNZrcpmlx-59" parent="1" style="endArrow=open;endSize=12;dashed=1;html=1;entryX=-0.017;entryY=0.638;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" target="01HrcIv9IHzVNZrcpmlx-56" source="01HrcIv9IHzVNZrcpmlx-55" edge="1">
-          <mxGeometry as="geometry" width="160" relative="1">
-            <mxPoint as="sourcePoint" x="453" y="280" />
-            <mxPoint as="targetPoint" x="500" y="393" />
           </mxGeometry>
         </mxCell>
         <mxCell value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" id="01HrcIv9IHzVNZrcpmlx-60" parent="1" style="endArrow=open;endSize=12;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="01HrcIv9IHzVNZrcpmlx-56" source="01HrcIv9IHzVNZrcpmlx-54" edge="1">
@@ -125,6 +119,21 @@
             <mxPoint as="sourcePoint" x="95" y="200" />
             <mxPoint as="targetPoint" x="290" y="390" />
           </mxGeometry>
+        </mxCell>
+        <mxCell value="LP01. course registering" id="01HrcIv9IHzVNZrcpmlx-63" parent="1" style="ellipse;whiteSpace=wrap;html=1;" vertex="1">
+          <mxGeometry as="geometry" height="80" width="209" x="261" y="528" />
+        </mxCell>
+        <mxCell value="" id="01HrcIv9IHzVNZrcpmlx-64" parent="1" style="endArrow=none;html=1;" target="01HrcIv9IHzVNZrcpmlx-63" source="01HrcIv9IHzVNZrcpmlx-4" edge="1">
+          <mxGeometry as="geometry" height="50" width="50" relative="1">
+            <mxPoint as="sourcePoint" x="431" y="413" />
+            <mxPoint as="targetPoint" x="481" y="363" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell value="LP02. manage course" id="01HrcIv9IHzVNZrcpmlx-65" parent="1" style="ellipse;whiteSpace=wrap;html=1;" vertex="1">
+          <mxGeometry as="geometry" height="80" width="192" x="266" y="616" />
+        </mxCell>
+        <mxCell value="LP03. manage course offerings" id="01HrcIv9IHzVNZrcpmlx-66" parent="1" style="ellipse;whiteSpace=wrap;html=1;" vertex="1">
+          <mxGeometry as="geometry" height="80" width="209" x="264" y="709" />
         </mxCell>
       </root>
     </mxGraphModel>
