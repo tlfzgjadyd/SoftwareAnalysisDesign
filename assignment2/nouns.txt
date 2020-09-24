@@ -173,3 +173,7 @@ usability
 정확도
 0
 1
+
+
+도메인 관련
+: Communication Line, Transaction Log
