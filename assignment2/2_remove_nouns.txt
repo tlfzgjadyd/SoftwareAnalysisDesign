@@ -1,0 +1,36 @@
+user -> 자기증명 정보(프로필), 옵션 ------learners / instructor / staff 
+course / offering / class / assignment -> deadline
+hardware-----camera->모드 enum(camera-only mode, concentration-only mode, camera-concentration mode) / microphone / speaker / computer / computer screen
+discussion boards
+
+❑ Eye Movement
+ Eye Bow Movement Rate
+ Eye Angle
+ Size of Opened Eye
+❑ Head Rotation
+ Head Nodding
+ Head Rotation
+ Head Angle
+❑ Face Movement
+ Face Downward
+ Face Lay Down Flat on Table
+❑ Noise
+ (Loud) Music Play
+ Chatting Noise
+ Phone Conversation
+ Phone Ringing
+ Street Noise
+ Coffeeshop Noise
+❑ Activity Performed (If Detectable)
+ Talking Activity
+ Mouse Movement
+ Eating Activity
+ Text Messaging Activity
+ Sleeping
+
+analysis method->집중도, 통계, 머신러닝
+실시간 경고 -> 오디오 효과 / 경고 내용 / 경고 id / 경고 타임스탬프 / 경고 타겟 / 다른 선택적 정보
+threshold values
+
+집중도 / 집중 변화 / 집중비율 / 집중도 평균 / 집중도 역사 -> 농도 수준은 0과 1 사이의 숫자 값으로 표현된다. 
+리포트 ->type enum (클래스 리포트 / offering 리포트 / 강의 리포트)
