@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-27T13:29:33.385Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="P0IhXFOxCk8iP2couvLM" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-27T13:43:55.357Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="nJIMMJ0dmHjgWA41z0cD" version="13.7.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2831" dy="1889" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2222" dy="1562" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -41,7 +41,7 @@
           <mxGeometry x="1581" y="613" width="136" height="47" as="geometry" />
         </mxCell>
         <mxCell id="x_yw0JGO0CKYukrU0RF4-46" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;AlertAgent&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;span&gt;- alertContent : String&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- alertId : int&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- alertTimestamp : String&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- alertTarget : boolean&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- timer : Timer&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ AlertAgent()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+getAlertContent() : String&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+setAlertContent(alertContent : String) : void&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+getAlertId() : int&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+setAlertId(alertId : int) : void&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+getAlertTimeStamp() : String&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+setAlertTimeStamp(alertTimeStamp : String) : void&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+getAlertTarget() : boolean&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+setAlertTarget(alertTarget : boolean) : void&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+getTimer() : Timer&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+setTimer(timer : Timer) : void&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+detectAlert() : void&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+generateAlert() : void&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+transmitAlert() : void&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+browseAlert() : void&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=#FFFFDB;strokeColor=#D6C189;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-189.46" y="669" width="303.46" height="329" as="geometry" />
+          <mxGeometry x="-191.23000000000002" y="681" width="303.46" height="329" as="geometry" />
         </mxCell>
         <mxCell id="x_yw0JGO0CKYukrU0RF4-54" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Report&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- reportTarget : String&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;-concentrationAnalytics&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;-statisticalAnalysis&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;-machineLearningAnalytics&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ Report()&lt;br&gt;+generateConcentrationAnalytics() : String&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+geterateStatisticalAnalysis() : String&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+generateMachineLearningAnalytics() : String&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=#FFFFDB;strokeColor=#D6C189;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="381" y="677" width="257" height="185" as="geometry" />
@@ -55,7 +55,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="x_yw0JGO0CKYukrU0RF4-64" value="" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x_yw0JGO0CKYukrU0RF4-107" target="x_yw0JGO0CKYukrU0RF4-54" edge="1">
+        <mxCell id="_1Qg6ZkcGb3tZ9mfLL8D-0" value="N : M" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x_yw0JGO0CKYukrU0RF4-62">
+          <mxGeometry x="0.3941" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x_yw0JGO0CKYukrU0RF4-64" value="N:M" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x_yw0JGO0CKYukrU0RF4-107" target="x_yw0JGO0CKYukrU0RF4-54" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="337.5" y="-172" as="sourcePoint" />
             <mxPoint x="155.5" y="157" as="targetPoint" />
@@ -164,6 +169,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="_1Qg6ZkcGb3tZ9mfLL8D-1" value="N:M" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x_yw0JGO0CKYukrU0RF4-106">
+          <mxGeometry x="-0.2151" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="x_yw0JGO0CKYukrU0RF4-107" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Staff&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+Staff()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+registerCourse() : void&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+browseCourse() : void&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+modifyCourse() : void&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+deactivateCourse() : void&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+deleteCourse() : void&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+registerOffering() : void&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+browseOffering() : void&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+modifyOffering() : void&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+deactivateOffering() : void&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+deleteOffering() : void&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+setCeOptions() : void&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+setAlertOptions() : void&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+browseAlert() : void&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+setReportOptions() : void&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+generateReports() : void&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+browseReports() : void&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+deleteReport() : void&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+monitoringSystem() : void&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+analyzeSystemQos() : void&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+generateSystemReports() : void&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+backupSystem() : void&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+restoreSystem() : void&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#D6CEB2;strokeWidth=2;fillColor=#FFFABA;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="374" y="223" width="199" height="369" as="geometry" />
         </mxCell>
@@ -171,7 +181,7 @@
           <mxGeometry x="459" y="946" width="312" height="193" as="geometry" />
         </mxCell>
         <mxCell id="x_yw0JGO0CKYukrU0RF4-110" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Timer&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&amp;nbsp;+TImer()&lt;br&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ autoGenerateReports() : void&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#D6CEB2;strokeWidth=2;fillColor=#FFFFDB;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-136" y="1053" width="193" height="74" as="geometry" />
+          <mxGeometry x="-136" y="1073" width="193" height="74" as="geometry" />
         </mxCell>
         <mxCell id="x_yw0JGO0CKYukrU0RF4-111" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;MlSpecialist&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ MlSpecialist()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+configureTrainingSet() : void&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+configureMlAlgorithm() : void&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+configureHyperParameters() : void&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+selectFeatures() : void&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+runMlAlgorithm() : void&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+evaluateModelPerformance() : void&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+determineOptimizationNeed() : void&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+optimizeMlModel() : void&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+deployMlModel() : void&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#D6CEB2;strokeWidth=2;fillColor=#FFFFDB;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="180" y="954" width="235" height="190" as="geometry" />
@@ -182,88 +192,123 @@
             <mxPoint x="262" y="595" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_1Qg6ZkcGb3tZ9mfLL8D-2" value="N&lt;br&gt;:&lt;br&gt;1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x_yw0JGO0CKYukrU0RF4-112">
+          <mxGeometry x="0.2639" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="x_yw0JGO0CKYukrU0RF4-113" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x_yw0JGO0CKYukrU0RF4-110" target="x_yw0JGO0CKYukrU0RF4-46" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="102" y="595" as="sourcePoint" />
             <mxPoint x="262" y="595" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x_yw0JGO0CKYukrU0RF4-116" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x_yw0JGO0CKYukrU0RF4-54" target="x_yw0JGO0CKYukrU0RF4-109" edge="1">
+        <mxCell id="_1Qg6ZkcGb3tZ9mfLL8D-3" value="1:1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x_yw0JGO0CKYukrU0RF4-113">
+          <mxGeometry x="-0.5349" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x_yw0JGO0CKYukrU0RF4-116" value="N:M" style="endArrow=open;endFill=1;endSize=12;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x_yw0JGO0CKYukrU0RF4-54" target="x_yw0JGO0CKYukrU0RF4-109" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="288" y="1074" as="sourcePoint" />
             <mxPoint x="448" y="1074" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x_yw0JGO0CKYukrU0RF4-117" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x_yw0JGO0CKYukrU0RF4-54" target="x_yw0JGO0CKYukrU0RF4-111" edge="1">
+        <mxCell id="x_yw0JGO0CKYukrU0RF4-117" value="N:M" style="endArrow=open;endFill=1;endSize=12;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x_yw0JGO0CKYukrU0RF4-54" target="x_yw0JGO0CKYukrU0RF4-111" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="499.02091020910166" y="827" as="sourcePoint" />
             <mxPoint x="541.2152521525209" y="1095" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOWEdvyjD7r4g93K8zKh-2" value="&amp;nbsp; Hardware :&amp;nbsp;This class includes cameras, microphones, and speakers and &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;has a common transmission function.&lt;br&gt;&lt;br&gt;&amp;nbsp; Camera : This class allows screen capture and mode selection by sending a &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;modeType transfer factor to the changeMode function.&lt;br&gt;&lt;br&gt;&amp;nbsp; Microphone :&amp;nbsp;This class contains the user&#39;s voice and transmits it as a function &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; inherited from the hardware class.&lt;br&gt;&lt;br&gt;&amp;nbsp; Speaker :&amp;nbsp;&amp;nbsp;This class prints out other users&#39; voices, or displays concentration &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;warning and class effectiveness sounds." style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BOWEdvyjD7r4g93K8zKh-2" value="&amp;nbsp; Hardware :&amp;nbsp;This class includes cameras, microphones, and speakers and &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;has a common transmission function.&lt;br&gt;&lt;br&gt;&amp;nbsp; Camera : This class allows screen capture and mode selection by sending a &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;modeType transfer factor to the changeMode function.&lt;br&gt;&lt;br&gt;&amp;nbsp; Microphone :&amp;nbsp;This class contains the user&#39;s voice and transmits it as a function &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; inherited from the hardware class.&lt;br&gt;&lt;br&gt;&amp;nbsp; Speaker :&amp;nbsp;&amp;nbsp;This class prints out other users&#39; voices, or displays concentration &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;warning and class effectiveness sounds." style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-714" y="261" width="448" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="BOWEdvyjD7r4g93K8zKh-3" value="&amp;nbsp; User :&amp;nbsp;This class includes learner, instructor, and staff, and has user &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;information such as ID password.&lt;br&gt;&lt;br&gt;&amp;nbsp;iManage :&amp;nbsp;Implementing this interface enables to manage user&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; information.&lt;br&gt;&lt;br&gt;&amp;nbsp; Learner :&amp;nbsp;This class corresponds to a student and is warned&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; in case of poor concentration.&lt;br&gt;&lt;br&gt;&amp;nbsp; Instructor :&amp;nbsp;This class can manage&amp;nbsp;lectures and conduct classes&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; based on students&#39; concentration rate.&lt;br&gt;&lt;br&gt;&amp;nbsp; Staff :&amp;nbsp;This class is an administrator and can manage all lectures, &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;user information, and reports." style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BOWEdvyjD7r4g93K8zKh-3" value="&amp;nbsp; User :&amp;nbsp;This class includes learner, instructor, and staff, and has user &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;information such as ID password.&lt;br&gt;&lt;br&gt;&amp;nbsp;iManage :&amp;nbsp;Implementing this interface enables to manage user&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; information.&lt;br&gt;&lt;br&gt;&amp;nbsp; Learner :&amp;nbsp;This class corresponds to a student and is warned&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; in case of poor concentration.&lt;br&gt;&lt;br&gt;&amp;nbsp; Instructor :&amp;nbsp;This class can manage&amp;nbsp;lectures and conduct classes&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; based on students&#39; concentration rate.&lt;br&gt;&lt;br&gt;&amp;nbsp; Staff :&amp;nbsp;This class is an administrator and can manage all lectures, &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;user information, and reports." style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="33" y="-430" width="388" height="213" as="geometry" />
         </mxCell>
-        <mxCell id="BOWEdvyjD7r4g93K8zKh-4" value="&amp;nbsp; AlertAgent :&amp;nbsp;This class generates an alert with the necessary information. &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;It&amp;nbsp;has a timer as a member variable.&lt;br&gt;&lt;br&gt;&amp;nbsp; Timer :&amp;nbsp;Automatically generate reports by timekeeping how long you &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; haven&#39;t been focused." style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BOWEdvyjD7r4g93K8zKh-4" value="&amp;nbsp; AlertAgent :&amp;nbsp;This class generates an alert with the necessary information. &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;It&amp;nbsp;has a timer as a member variable.&lt;br&gt;&lt;br&gt;&amp;nbsp; Timer :&amp;nbsp;Automatically generate reports by timekeeping how long you &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; haven&#39;t been focused." style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-345" y="1173" width="404" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="BOWEdvyjD7r4g93K8zKh-5" value="" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x_yw0JGO0CKYukrU0RF4-54" target="x_yw0JGO0CKYukrU0RF4-76">
+        <mxCell id="BOWEdvyjD7r4g93K8zKh-5" value="" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x_yw0JGO0CKYukrU0RF4-54" target="x_yw0JGO0CKYukrU0RF4-76" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="833" y="436" as="sourcePoint" />
             <mxPoint x="993" y="436" as="targetPoint" />
             <Array as="points">
               <mxPoint x="576" y="630" />
-              <mxPoint x="890" y="623" />
+              <mxPoint x="890" y="630" />
               <mxPoint x="895" y="315" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOWEdvyjD7r4g93K8zKh-6" value="" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.008;entryY=0.443;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x_yw0JGO0CKYukrU0RF4-110" target="x_yw0JGO0CKYukrU0RF4-54">
+        <mxCell id="_1Qg6ZkcGb3tZ9mfLL8D-5" value="N:M" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BOWEdvyjD7r4g93K8zKh-5">
+          <mxGeometry x="-0.2876" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BOWEdvyjD7r4g93K8zKh-6" value="" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.008;entryY=0.443;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x_yw0JGO0CKYukrU0RF4-110" target="x_yw0JGO0CKYukrU0RF4-54" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="365" y="980" as="sourcePoint" />
             <mxPoint x="525" y="980" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="153" y="1090" />
+              <mxPoint x="153" y="1110" />
               <mxPoint x="153" y="759" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOWEdvyjD7r4g93K8zKh-7" value="&amp;nbsp; Report :&amp;nbsp;This class produces reports through various kinds of analysis towards &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; the target to create the report.&lt;br&gt;&lt;br&gt;&amp;nbsp; MlSpecialist :&amp;nbsp;This class is involved in machine learning management and helps &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;to write learning reports through analysis.&lt;br&gt;&lt;br&gt;&amp;nbsp; CeAgent :&amp;nbsp;This class is involved in concentration analysis and helps to write &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;learning reports through analysis." style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_1Qg6ZkcGb3tZ9mfLL8D-4" value="N:M" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BOWEdvyjD7r4g93K8zKh-6">
+          <mxGeometry x="-0.0252" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BOWEdvyjD7r4g93K8zKh-7" value="&amp;nbsp; Report :&amp;nbsp;This class produces reports through various kinds of analysis towards &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; the target to create the report.&lt;br&gt;&lt;br&gt;&amp;nbsp; MlSpecialist :&amp;nbsp;This class is involved in machine learning management and helps &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;to write learning reports through analysis.&lt;br&gt;&lt;br&gt;&amp;nbsp; CeAgent :&amp;nbsp;This class is involved in concentration analysis and helps to write &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;learning reports through analysis." style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="266" y="1202" width="438" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="BOWEdvyjD7r4g93K8zKh-8" value="&amp;nbsp; Lecture :&amp;nbsp;This class includes courses and bulletin boards and is &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;subject to management.&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp; Course :&amp;nbsp;This includes class and manages several sub-items &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;through array.&amp;nbsp;&lt;br&gt;&lt;br&gt;&amp;nbsp; Class :&amp;nbsp;This is a subcomponent that includes zoom link, start &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; times, and multiple lecture options." style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BOWEdvyjD7r4g93K8zKh-8" value="&amp;nbsp; Lecture :&amp;nbsp;This class includes courses and bulletin boards and is &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;subject to management.&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp; Course :&amp;nbsp;This includes class and manages several sub-items &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;through array.&amp;nbsp;&lt;br&gt;&lt;br&gt;&amp;nbsp; Class :&amp;nbsp;This is a subcomponent that includes zoom link, start &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; times, and multiple lecture options." style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="914" y="1360" width="346" height="116" as="geometry" />
         </mxCell>
-        <mxCell id="BOWEdvyjD7r4g93K8zKh-9" value="&amp;nbsp; Board :&amp;nbsp;This class has necessary contents&amp;nbsp;on the message &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;board and includes board management.&lt;br&gt;&lt;br&gt;&amp;nbsp; NoticeBoard :&amp;nbsp;This is a notice board where the instructor&#39;s &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;announcement is posted.&lt;br&gt;&lt;br&gt;&amp;nbsp; DiscussionBoard :&amp;nbsp;This is a question and answer board and the &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; learner can also write." style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BOWEdvyjD7r4g93K8zKh-9" value="&amp;nbsp; Board :&amp;nbsp;This class has necessary contents&amp;nbsp;on the message &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;board and includes board management.&lt;br&gt;&lt;br&gt;&amp;nbsp; NoticeBoard :&amp;nbsp;This is a notice board where the instructor&#39;s &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;announcement is posted.&lt;br&gt;&lt;br&gt;&amp;nbsp; DiscussionBoard :&amp;nbsp;This is a question and answer board and the &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; learner can also write." style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1351" y="-14" width="354" height="134" as="geometry" />
         </mxCell>
-        <mxCell id="BOWEdvyjD7r4g93K8zKh-10" value="&amp;nbsp; Article :&amp;nbsp;This class means each piece of writing. &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;It contains necessary information as variables ." style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BOWEdvyjD7r4g93K8zKh-10" value="&amp;nbsp; Article :&amp;nbsp;This class means each piece of writing. &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;It contains necessary information as variables ." style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1777" y="521" width="304" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="BOWEdvyjD7r4g93K8zKh-11" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x_yw0JGO0CKYukrU0RF4-12" target="x_yw0JGO0CKYukrU0RF4-10">
+        <mxCell id="BOWEdvyjD7r4g93K8zKh-11" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x_yw0JGO0CKYukrU0RF4-12" target="x_yw0JGO0CKYukrU0RF4-10" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="998" y="898" as="sourcePoint" />
             <mxPoint x="1158" y="898" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOWEdvyjD7r4g93K8zKh-12" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x_yw0JGO0CKYukrU0RF4-10" target="x_yw0JGO0CKYukrU0RF4-76">
+        <mxCell id="_1Qg6ZkcGb3tZ9mfLL8D-6" value="1&lt;br&gt;:&lt;br&gt;N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BOWEdvyjD7r4g93K8zKh-11">
+          <mxGeometry x="-0.2446" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BOWEdvyjD7r4g93K8zKh-12" value="1&lt;br&gt;:&lt;br&gt;N" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x_yw0JGO0CKYukrU0RF4-10" target="x_yw0JGO0CKYukrU0RF4-76" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="998" y="898" as="sourcePoint" />
             <mxPoint x="1158" y="898" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOWEdvyjD7r4g93K8zKh-13" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x_yw0JGO0CKYukrU0RF4-82" target="x_yw0JGO0CKYukrU0RF4-76">
+        <mxCell id="BOWEdvyjD7r4g93K8zKh-13" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x_yw0JGO0CKYukrU0RF4-82" target="x_yw0JGO0CKYukrU0RF4-76" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1046" y="662" as="sourcePoint" />
             <mxPoint x="1206" y="662" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOWEdvyjD7r4g93K8zKh-14" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x_yw0JGO0CKYukrU0RF4-91" target="x_yw0JGO0CKYukrU0RF4-82">
+        <mxCell id="_1Qg6ZkcGb3tZ9mfLL8D-7" value="1:N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BOWEdvyjD7r4g93K8zKh-13">
+          <mxGeometry x="0.1662" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BOWEdvyjD7r4g93K8zKh-14" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x_yw0JGO0CKYukrU0RF4-91" target="x_yw0JGO0CKYukrU0RF4-82" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1046" y="662" as="sourcePoint" />
             <mxPoint x="1206" y="662" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_1Qg6ZkcGb3tZ9mfLL8D-8" value="1: N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BOWEdvyjD7r4g93K8zKh-14">
+          <mxGeometry x="-0.3759" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
