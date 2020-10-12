@@ -1,17 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2020-10-12T11:56:23.611Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="YdUkXi73Yr8sWaHFZeiW" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-12T12:06:33.379Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="m54R4zjRnTHOgpAEusqr" version="13.7.9" type="github">
   <diagram id="o5HTqguN4TyBWtxsFD9D" name="Page-1">
-    <mxGraphModel dx="3555" dy="1773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fRjeeRejCwsMr5DVCLFa-385" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF1E3;strokeColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="2360" y="1155" width="600" height="565" as="geometry" />
+        </mxCell>
+        <mxCell id="fRjeeRejCwsMr5DVCLFa-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF9E6;" vertex="1" parent="1">
+          <mxGeometry x="2443" y="1280.42" width="234" height="320" as="geometry" />
+        </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-387" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF1E3;strokeColor=#FF8000;" vertex="1" parent="1">
-          <mxGeometry x="3390" y="1210.42" width="470" height="305" as="geometry" />
+          <mxGeometry x="2995" y="1155.42" width="295" height="294.58" as="geometry" />
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-388" value="Class Support Management" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3380" y="1185.42" width="180" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="fRjeeRejCwsMr5DVCLFa-385" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF1E3;strokeColor=#FF8000;" vertex="1" parent="1">
-          <mxGeometry x="2360" y="1155" width="960" height="675" as="geometry" />
+          <mxGeometry x="2990" y="1131.25" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-386" value="Concentration Evaluation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2330" y="1135" width="180" height="20" as="geometry" />
@@ -61,9 +64,6 @@
         <mxCell id="fRjeeRejCwsMr5DVCLFa-362" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFDF5;strokeColor=#FFD36B;" vertex="1" parent="1">
           <mxGeometry x="170" y="85.42" width="290" height="234.58" as="geometry" />
         </mxCell>
-        <mxCell id="fRjeeRejCwsMr5DVCLFa-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF9E6;" vertex="1" parent="1">
-          <mxGeometry x="2476" y="1305" width="380" height="330" as="geometry" />
-        </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#292929;direction=south;rotation=-30;" vertex="1" parent="1">
           <mxGeometry x="16" y="90" width="60.42" height="60.42" as="geometry" />
         </mxCell>
@@ -77,7 +77,7 @@
           <mxGeometry x="1898" y="601.5" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-11" value="RG05. Auto Generate Reports" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF9E6;" vertex="1" parent="1">
-          <mxGeometry x="3700" y="1220.42" width="120" height="60" as="geometry" />
+          <mxGeometry x="3170" y="1174.17" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-12" value="&lt;div&gt;&lt;span&gt;ML04. Select Features&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF9E6;" vertex="1" parent="1">
           <mxGeometry x="1884.88" y="1228.75" width="82.5" height="60" as="geometry" />
@@ -86,37 +86,37 @@
           <mxGeometry x="1924.88" y="1337.75" width="77.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-14" value="&lt;div&gt;CE11. Compute Course CE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF9E6;" vertex="1" parent="1">
-          <mxGeometry x="3146" y="1635" width="120" height="60" as="geometry" />
+          <mxGeometry x="2830" y="1600" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-15" value="CE10. Compute Offering CE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF9E6;" vertex="1" parent="1">
-          <mxGeometry x="3011.5" y="1635" width="120" height="60" as="geometry" />
+          <mxGeometry x="2750" y="1600" width="71.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-16" value="CE09. Compute Class CE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF9E6;" vertex="1" parent="1">
-          <mxGeometry x="2876" y="1635" width="120" height="60" as="geometry" />
+          <mxGeometry x="2666" y="1600" width="76" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-17" value="CE08. Compute Activity CE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF9E6;" vertex="1" parent="1">
-          <mxGeometry x="2716" y="1560" width="120" height="60" as="geometry" />
+          <mxGeometry x="2590" y="1520.42" width="76" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-18" value="CE07. Compute Noise CE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF9E6;" vertex="1" parent="1">
-          <mxGeometry x="2646" y="1482.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="2540" y="1450.42" width="76" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-19" value="CE06. Compute Head CE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF9E6;" vertex="1" parent="1">
-          <mxGeometry x="2556" y="1413.75" width="120" height="60" as="geometry" />
+          <mxGeometry x="2490" y="1379.8000000000002" width="66" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-20" value="CE05. Compute Eye CE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF9E6;" vertex="1" parent="1">
-          <mxGeometry x="2488" y="1345" width="120" height="60" as="geometry" />
+          <mxGeometry x="2450" y="1308.17" width="68" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-22" value="CE03. Get Audio Clip" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF9E6;" vertex="1" parent="1">
-          <mxGeometry x="2400" y="1210" width="120" height="60" as="geometry" />
+          <mxGeometry x="2380" y="1210" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-23" value="AM04. Transmit Alert" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF9E6;" vertex="1" parent="1">
-          <mxGeometry x="3410" y="1425.42" width="120" height="60" as="geometry" />
+          <mxGeometry x="3010" y="1370.25" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-24" value="AM03. Generate Alert" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF9E6;" vertex="1" parent="1">
-          <mxGeometry x="3410" y="1325.42" width="120" height="60" as="geometry" />
+          <mxGeometry x="3010" y="1271.25" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-25" value="AM02. Detect Alert" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF9E6;" vertex="1" parent="1">
-          <mxGeometry x="3410" y="1220.42" width="120" height="60" as="geometry" />
+          <mxGeometry x="3010" y="1173.63" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-26" value="RG04. Delete Reports" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF9E6;" vertex="1" parent="1">
           <mxGeometry x="855" y="1386.25" width="95" height="60" as="geometry" />
@@ -236,7 +236,7 @@
           <mxGeometry x="1500" y="20.420000000000073" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-97" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1364" y="2004" width="80" height="80" as="geometry" />
+          <mxGeometry x="1293" y="1878" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-5" value="" style="group" vertex="1" connectable="0" parent="fRjeeRejCwsMr5DVCLFa-97">
           <mxGeometry width="80" height="80" as="geometry" />
@@ -260,25 +260,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-105" value="Alert Agent" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3435" y="90.84000000000007" width="130" height="20" as="geometry" />
+          <mxGeometry x="2980" y="25.420000000000073" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-106" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fRjeeRejCwsMr5DVCLFa-25" target="fRjeeRejCwsMr5DVCLFa-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3410" y="1500.42" as="sourcePoint" />
-            <mxPoint x="3460" y="1450.42" as="targetPoint" />
+            <mxPoint x="2985" y="1445.42" as="sourcePoint" />
+            <mxPoint x="3035" y="1395.42" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-107" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fRjeeRejCwsMr5DVCLFa-24" target="fRjeeRejCwsMr5DVCLFa-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3410" y="1500.42" as="sourcePoint" />
-            <mxPoint x="3467" y="1440.42" as="targetPoint" />
+            <mxPoint x="2985" y="1445.42" as="sourcePoint" />
+            <mxPoint x="3042" y="1385.42" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-111" value="CE Agent" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="2340" y="35.42000000000007" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-119" value="Timer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3725" y="100.84000000000007" width="40" height="20" as="geometry" />
+          <mxGeometry x="3180" y="25.420000000000073" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-123" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="fRjeeRejCwsMr5DVCLFa-310">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -362,12 +362,12 @@
           <mxGeometry x="1100" y="90.42000000000007" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-157" value="CP02. End Class" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF9E6;" vertex="1" parent="1">
-          <mxGeometry x="1179" y="1988" width="120" height="60" as="geometry" />
+          <mxGeometry x="1108" y="1862" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-159" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="fRjeeRejCwsMr5DVCLFa-157">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1239" y="1880" as="sourcePoint" />
-            <mxPoint x="1099" y="848" as="targetPoint" />
+            <mxPoint x="1168" y="1754" as="sourcePoint" />
+            <mxPoint x="1028" y="722" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-161" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22rhombus%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BstrokeColor%3D%23000000%3BfillColor%3D%23FFF9E6%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%222720%22%20y%3D%22-220%22%20width%3D%2240%22%20height%3D%2235%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFF9E6;" vertex="1" parent="1">
@@ -423,7 +423,7 @@
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-180" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1830" y="2020" as="sourcePoint" />
+            <mxPoint x="1830" y="1950" as="sourcePoint" />
             <mxPoint x="1830" y="40.42000000000053" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -438,7 +438,7 @@
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-186" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1480" y="2030" as="sourcePoint" />
+            <mxPoint x="1480" y="1940" as="sourcePoint" />
             <mxPoint x="1480" y="20.42" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -451,7 +451,7 @@
         <mxCell id="fRjeeRejCwsMr5DVCLFa-189" value="" style="endArrow=none;html=1;strokeWidth=5;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="558.13" y="1090" as="sourcePoint" />
-            <mxPoint x="3890" y="1110" as="targetPoint" />
+            <mxPoint x="3290" y="1110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-191" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="fRjeeRejCwsMr5DVCLFa-183">
@@ -462,20 +462,20 @@
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-192" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2310" y="2120" as="sourcePoint" />
+            <mxPoint x="2320" y="1950" as="sourcePoint" />
             <mxPoint x="2320" y="55.42000000000053" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-193" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3350" y="2105.42" as="sourcePoint" />
-            <mxPoint x="3360" y="35.42000000000046" as="targetPoint" />
+            <mxPoint x="2970" y="1970" as="sourcePoint" />
+            <mxPoint x="2990" y="40.42000000000046" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-194" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3675" y="2115.42" as="sourcePoint" />
-            <mxPoint x="3675" y="65.42" as="targetPoint" />
+            <mxPoint x="3140" y="1980" as="sourcePoint" />
+            <mxPoint x="3160" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-195" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
@@ -486,14 +486,14 @@
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-196" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="fRjeeRejCwsMr5DVCLFa-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3470" y="1165.42" as="sourcePoint" />
-            <mxPoint x="3055" y="1245.42" as="targetPoint" />
+            <mxPoint x="3045" y="1110.42" as="sourcePoint" />
+            <mxPoint x="2630" y="1190.42" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-197" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="fRjeeRejCwsMr5DVCLFa-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3760" y="1165.42" as="sourcePoint" />
-            <mxPoint x="3480" y="1230.42" as="targetPoint" />
+            <mxPoint x="3210" y="1110" as="sourcePoint" />
+            <mxPoint x="2940" y="1184.17" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-198" value="" style="endArrow=classic;html=1;strokeWidth=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fRjeeRejCwsMr5DVCLFa-1">
@@ -508,8 +508,8 @@
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-201" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fRjeeRejCwsMr5DVCLFa-157" target="fRjeeRejCwsMr5DVCLFa-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1249" y="1890" as="sourcePoint" />
-            <mxPoint x="1249" y="1998" as="targetPoint" />
+            <mxPoint x="1178" y="1764" as="sourcePoint" />
+            <mxPoint x="1178" y="1872" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-202" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fRjeeRejCwsMr5DVCLFa-274">
@@ -521,7 +521,7 @@
         <mxCell id="fRjeeRejCwsMr5DVCLFa-203" value="" style="endArrow=none;html=1;strokeWidth=5;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="535" y="1749" as="sourcePoint" />
-            <mxPoint x="3890" y="1770" as="targetPoint" />
+            <mxPoint x="3280" y="1770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-204" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fRjeeRejCwsMr5DVCLFa-279">
@@ -532,20 +532,20 @@
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-206" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2840" y="1800" as="sourcePoint" />
-            <mxPoint x="2840" y="1900" as="targetPoint" />
+            <mxPoint x="2660" y="1690" as="sourcePoint" />
+            <mxPoint x="2660" y="1760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-207" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fRjeeRejCwsMr5DVCLFa-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3479.999999999999" y="1892.42" as="sourcePoint" />
-            <mxPoint x="3470" y="1947.42" as="targetPoint" />
+            <mxPoint x="3054.999999999999" y="1837.42" as="sourcePoint" />
+            <mxPoint x="3045" y="1770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-208" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fRjeeRejCwsMr5DVCLFa-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3735" y="1405.42" as="sourcePoint" />
-            <mxPoint x="3760" y="1955.42" as="targetPoint" />
+            <mxPoint x="3195" y="1359.17" as="sourcePoint" />
+            <mxPoint x="3220" y="1760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-209" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fRjeeRejCwsMr5DVCLFa-336">
@@ -1104,113 +1104,107 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-343" value="CE04. Computer Learner CE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2466" y="1268.75" width="160" height="40" as="geometry" />
+          <mxGeometry x="2450" y="1253.75" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-344" value="" style="endArrow=none;html=1;strokeWidth=5;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2406" y="1190" as="sourcePoint" />
-            <mxPoint x="3280" y="1190" as="targetPoint" />
+            <mxPoint x="2920" y="1190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-345" value="" style="endArrow=classic;html=1;strokeWidth=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="fRjeeRejCwsMr5DVCLFa-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2460" y="1190" as="sourcePoint" />
+            <mxPoint x="2420" y="1190" as="sourcePoint" />
             <mxPoint x="2706" y="1600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-346" value="" style="endArrow=classic;html=1;strokeWidth=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="fRjeeRejCwsMr5DVCLFa-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2548" y="1190" as="sourcePoint" />
+            <mxPoint x="2484" y="1190" as="sourcePoint" />
             <mxPoint x="2706" y="1600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-347" value="" style="endArrow=classic;html=1;strokeWidth=1;" edge="1" parent="1" target="fRjeeRejCwsMr5DVCLFa-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2617" y="1190" as="sourcePoint" />
+            <mxPoint x="2530" y="1190" as="sourcePoint" />
             <mxPoint x="2558" y="1355" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-348" value="" style="endArrow=classic;html=1;strokeWidth=1;" edge="1" parent="1" target="fRjeeRejCwsMr5DVCLFa-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2705" y="1190" as="sourcePoint" />
+            <mxPoint x="2578" y="1190" as="sourcePoint" />
             <mxPoint x="2626.1182266009855" y="1423.75" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fRjeeRejCwsMr5DVCLFa-349" value="" style="endArrow=classic;html=1;strokeWidth=1;" edge="1" parent="1" target="fRjeeRejCwsMr5DVCLFa-17">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2775" y="1190" as="sourcePoint" />
-            <mxPoint x="2715.0697674418607" y="1492.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-350" value="" style="endArrow=classic;html=1;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fRjeeRejCwsMr5DVCLFa-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2558" y="1200" as="sourcePoint" />
-            <mxPoint x="2548" y="1790" as="targetPoint" />
+            <mxPoint x="2484" y="1680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-351" value="" style="endArrow=classic;html=1;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fRjeeRejCwsMr5DVCLFa-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2558" y="1415" as="sourcePoint" />
-            <mxPoint x="2616" y="1780" as="targetPoint" />
+            <mxPoint x="2530" y="1680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-352" value="" style="endArrow=classic;html=1;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fRjeeRejCwsMr5DVCLFa-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2626" y="1483.75" as="sourcePoint" />
-            <mxPoint x="2706" y="1790" as="targetPoint" />
+            <mxPoint x="2578" y="1680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-353" value="" style="endArrow=classic;html=1;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fRjeeRejCwsMr5DVCLFa-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2716" y="1552.5" as="sourcePoint" />
-            <mxPoint x="2776" y="1790" as="targetPoint" />
+            <mxPoint x="2630" y="1680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-354" value="" style="endArrow=classic;html=1;strokeWidth=1;" edge="1" parent="1" source="fRjeeRejCwsMr5DVCLFa-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2550" y="1415" as="sourcePoint" />
-            <mxPoint x="2465" y="1790" as="targetPoint" />
+            <mxPoint x="2421" y="1680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-355" value="" style="endArrow=none;html=1;strokeWidth=5;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2416" y="1800" as="sourcePoint" />
-            <mxPoint x="3270" y="1800" as="targetPoint" />
+            <mxPoint x="2410" y="1690" as="sourcePoint" />
+            <mxPoint x="2900" y="1690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-356" value="" style="endArrow=classic;html=1;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fRjeeRejCwsMr5DVCLFa-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2786" y="1630.0000000000005" as="sourcePoint" />
-            <mxPoint x="2936" y="1790" as="targetPoint" />
+            <mxPoint x="2704" y="1680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-357" value="" style="endArrow=classic;html=1;strokeWidth=1;" edge="1" parent="1" target="fRjeeRejCwsMr5DVCLFa-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2936" y="1190" as="sourcePoint" />
+            <mxPoint x="2705" y="1190" as="sourcePoint" />
             <mxPoint x="2796" y="1810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-358" value="" style="endArrow=classic;html=1;strokeWidth=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="fRjeeRejCwsMr5DVCLFa-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3076" y="1190" as="sourcePoint" />
+            <mxPoint x="2786" y="1190" as="sourcePoint" />
             <mxPoint x="2806" y="1820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-359" value="" style="endArrow=classic;html=1;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fRjeeRejCwsMr5DVCLFa-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2816" y="1660.0000000000005" as="sourcePoint" />
-            <mxPoint x="3072" y="1790" as="targetPoint" />
+            <mxPoint x="2786" y="1680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-360" value="" style="endArrow=classic;html=1;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fRjeeRejCwsMr5DVCLFa-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2826" y="1670.0000000000005" as="sourcePoint" />
-            <mxPoint x="3206" y="1790" as="targetPoint" />
+            <mxPoint x="2870" y="1680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-361" value="" style="endArrow=classic;html=1;strokeWidth=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="fRjeeRejCwsMr5DVCLFa-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3206" y="1190" as="sourcePoint" />
+            <mxPoint x="2870" y="1190" as="sourcePoint" />
             <mxPoint x="2836" y="1850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -1222,6 +1216,12 @@
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-368" value="Offering Profile Management" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="770" y="55.42000000000007" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fRjeeRejCwsMr5DVCLFa-403" value="" style="endArrow=classic;html=1;strokeWidth=1;" edge="1" parent="1" target="fRjeeRejCwsMr5DVCLFa-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2628" y="1190" as="sourcePoint" />
+            <mxPoint x="2628" y="1550" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
