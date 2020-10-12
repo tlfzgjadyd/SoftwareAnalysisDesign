@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-12T07:30:17.488Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="-AtldoOgDAwvyFtjIQbU" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-12T08:45:24.490Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="EQLz5eFtW5eeFxuzl-7n" version="13.7.9" type="github">
   <diagram id="o5HTqguN4TyBWtxsFD9D" name="Page-1">
-    <mxGraphModel dx="2080" dy="2292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3197" dy="2439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,20 +13,20 @@
         <mxCell id="fRjeeRejCwsMr5DVCLFa-8" value="CO01. Register Course" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF9E6;" vertex="1" parent="1">
           <mxGeometry x="260" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fRjeeRejCwsMr5DVCLFa-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF9E6;" vertex="1" parent="1">
-          <mxGeometry x="2068" y="910" width="120" height="60" as="geometry" />
+        <mxCell id="fRjeeRejCwsMr5DVCLFa-9" value="ML02. Configure ML Algorithm" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF9E6;" vertex="1" parent="1">
+          <mxGeometry x="2250" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fRjeeRejCwsMr5DVCLFa-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF9E6;" vertex="1" parent="1">
-          <mxGeometry x="2068" y="800" width="120" height="60" as="geometry" />
+        <mxCell id="fRjeeRejCwsMr5DVCLFa-10" value="ML01. Configure Training Set" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF9E6;" vertex="1" parent="1">
+          <mxGeometry x="2250" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-11" value="RG05. Auto Generate Reports" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF9E6;" vertex="1" parent="1">
           <mxGeometry x="2000" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fRjeeRejCwsMr5DVCLFa-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF9E6;" vertex="1" parent="1">
-          <mxGeometry x="2000" y="1290" width="120" height="60" as="geometry" />
+        <mxCell id="fRjeeRejCwsMr5DVCLFa-12" value="&lt;div&gt;&lt;span&gt;ML04. Select Features&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF9E6;" vertex="1" parent="1">
+          <mxGeometry x="2250" y="1420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fRjeeRejCwsMr5DVCLFa-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF9E6;" vertex="1" parent="1">
-          <mxGeometry x="2060" y="1230" width="120" height="60" as="geometry" />
+        <mxCell id="fRjeeRejCwsMr5DVCLFa-13" value="ML05. Run ML Algorithm" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF9E6;" vertex="1" parent="1">
+          <mxGeometry x="2250" y="1500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-14" value="&lt;div&gt;CE11. Compute Course CE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF9E6;" vertex="1" parent="1">
           <mxGeometry x="1590" y="1180" width="120" height="60" as="geometry" />
@@ -275,7 +275,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-97" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="530" y="1070" width="30" height="30" as="geometry" />
+          <mxGeometry x="2270" y="1930" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-5" value="" style="group" vertex="1" connectable="0" parent="fRjeeRejCwsMr5DVCLFa-97">
           <mxGeometry width="30" height="30" as="geometry" />
@@ -357,6 +357,51 @@
         </mxCell>
         <mxCell id="fRjeeRejCwsMr5DVCLFa-119" value="Timer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1970" y="20" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fRjeeRejCwsMr5DVCLFa-121" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fRjeeRejCwsMr5DVCLFa-56" target="fRjeeRejCwsMr5DVCLFa-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1480" y="420" as="sourcePoint" />
+            <mxPoint x="2230" y="1450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1410" y="1310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fRjeeRejCwsMr5DVCLFa-122" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2176.25" y="1565" as="sourcePoint" />
+            <mxPoint x="2163.75" y="15.000000000000227" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fRjeeRejCwsMr5DVCLFa-123" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="130" as="sourcePoint" />
+            <mxPoint x="2296.6666666666665" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fRjeeRejCwsMr5DVCLFa-124" value="ML03. Configure Hyper Parameters" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF9E6;" vertex="1" parent="1">
+          <mxGeometry x="2250" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fRjeeRejCwsMr5DVCLFa-125" value="ML Specialist" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2180" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fRjeeRejCwsMr5DVCLFa-126" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fRjeeRejCwsMr5DVCLFa-124" target="fRjeeRejCwsMr5DVCLFa-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2140" y="800" as="sourcePoint" />
+            <mxPoint x="2190" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fRjeeRejCwsMr5DVCLFa-127" value="&lt;div&gt;&lt;span&gt;ML06. Evaluate Model Performance&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF9E6;" vertex="1" parent="1">
+          <mxGeometry x="2250" y="1570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fRjeeRejCwsMr5DVCLFa-128" value="ML07. Determine Optimization Need" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF9E6;" vertex="1" parent="1">
+          <mxGeometry x="2250" y="1640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fRjeeRejCwsMr5DVCLFa-129" value="ML08. Optimize ML Model" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF9E6;" vertex="1" parent="1">
+          <mxGeometry x="2250" y="1710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fRjeeRejCwsMr5DVCLFa-130" value="&lt;div&gt;ML09. Deploy ML Model&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF9E6;" vertex="1" parent="1">
+          <mxGeometry x="2250" y="1780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
