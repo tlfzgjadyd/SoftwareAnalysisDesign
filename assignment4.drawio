@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T15:47:28.049Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="mACe77XwZkrnsch0OPF9" version="13.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-29T15:56:18.847Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="uhjhF8KaCHAd_oFFpl1x" version="13.8.6" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="2248" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2499" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -201,20 +201,17 @@
             <mxPoint x="-350" y="1009.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lqf3YgznUa5-g-vqKq0o-145" value="&lt;br&gt;" style="endArrow=classic;html=1;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lqf3YgznUa5-g-vqKq0o-126" target="lqf3YgznUa5-g-vqKq0o-79">
+        <mxCell id="lqf3YgznUa5-g-vqKq0o-145" value="&lt;br&gt;" style="endArrow=classic;html=1;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry x="-0.5079" y="-35" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-545" y="899.25" as="sourcePoint" />
-            <mxPoint x="-540" y="1039.25" as="targetPoint" />
+            <mxPoint x="-547.5900000000003" y="799.25" as="sourcePoint" />
+            <mxPoint x="-547.59" y="1010" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lqf3YgznUa5-g-vqKq0o-158" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Power_pressed&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;or&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;background-color: rgb(248 , 249 , 250) ; font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Safety_lock_unplugged[plugged]/&lt;br&gt;Stop the machine&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" vertex="1" connectable="0" parent="lqf3YgznUa5-g-vqKq0o-145">
           <mxGeometry x="-0.3821" y="2" relative="1" as="geometry">
-            <mxPoint x="25" as="offset" />
+            <mxPoint x="25" y="36.04" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="lqf3YgznUa5-g-vqKq0o-146" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;br&gt;Final&lt;br&gt;&lt;/font&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=2;fillColor=#E6FFCC" vertex="1" parent="1">
-          <mxGeometry x="-602" y="1030" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lqf3YgznUa5-g-vqKq0o-79" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#121212;" vertex="1" parent="1">
           <mxGeometry x="-557" y="1105" width="20" height="20" as="geometry" />
@@ -237,13 +234,22 @@
         <mxCell id="lqf3YgznUa5-g-vqKq0o-152" value="" style="endArrow=classic;html=1;exitX=0.678;exitY=1.026;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="lqf3YgznUa5-g-vqKq0o-118">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-685" y="619.2499999999998" as="sourcePoint" />
-            <mxPoint x="-405" y="999.25" as="targetPoint" />
+            <mxPoint x="-405" y="1010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lqf3YgznUa5-g-vqKq0o-153" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Power_pressed&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;or&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Safety_lock_unplugged[plugged]/Stop the machine&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" vertex="1" connectable="0" parent="lqf3YgznUa5-g-vqKq0o-152">
           <mxGeometry x="-0.1148" y="-2" relative="1" as="geometry">
             <mxPoint x="27.229999999999997" y="11.76" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lqf3YgznUa5-g-vqKq0o-160" value="" style="endArrow=classic;html=1;strokeWidth=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="lqf3YgznUa5-g-vqKq0o-78">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-547" y="1010" as="sourcePoint" />
+            <mxPoint x="-570" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lqf3YgznUa5-g-vqKq0o-146" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;br&gt;Final&lt;br&gt;&lt;/font&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=2;fillColor=#E6FFCC" vertex="1" parent="1">
+          <mxGeometry x="-602" y="1030" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
