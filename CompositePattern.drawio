@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-14T16:48:06.658Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="zch7ZbBJ26hF0deAa4kF" version="13.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-14T16:57:29.478Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="34qm1uuAdZcOJXotu6f9" version="13.9.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1765" dy="1797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -101,8 +101,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n-7tMSdOyZGbc8-vc1UM-24" value="&lt;font color=&quot;#737373&quot;&gt;&amp;nbsp; public int getSize(){&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; for all f in explorers&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;sizes[i]&amp;lt;-f.getSize();&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;return sizes;&lt;br&gt;&amp;nbsp; }&lt;/font&gt;" style="html=1;align=left;strokeColor=#8F8F8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="610" y="290" width="190" height="80" as="geometry" />
+        <mxCell id="n-7tMSdOyZGbc8-vc1UM-24" value="&lt;font color=&quot;#737373&quot;&gt;&amp;nbsp; public int getSize(){&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; for all f in explorers&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;return f.getSize();&lt;br&gt;&amp;nbsp; }&lt;/font&gt;" style="html=1;align=left;strokeColor=#8F8F8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="310" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n-7tMSdOyZGbc8-vc1UM-31" value="" style="endArrow=block;endSize=10;endFill=0;shadow=0;strokeWidth=1;rounded=0;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.473;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-7tMSdOyZGbc8-vc1UM-43">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -227,8 +227,8 @@
         <mxCell id="n-7tMSdOyZGbc8-vc1UM-81" value="" style="ellipse;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="416" y="514" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="n-7tMSdOyZGbc8-vc1UM-82" value="&lt;font color=&quot;#737373&quot;&gt;&amp;nbsp; public String getName(){&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;for all f in explorers&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;names[i]&amp;lt;-f.getName();&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;return names;&lt;br&gt;&amp;nbsp; }&lt;/font&gt;" style="html=1;align=left;strokeColor=#8F8F8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="617" y="491" width="210" height="76.5" as="geometry" />
+        <mxCell id="n-7tMSdOyZGbc8-vc1UM-82" value="&lt;font color=&quot;#737373&quot;&gt;&amp;nbsp; public String getName(){&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;for all f in explorers&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;return f.getName();&lt;br&gt;&amp;nbsp; }&lt;/font&gt;" style="html=1;align=left;strokeColor=#8F8F8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="617" y="496" width="210" height="67.5" as="geometry" />
         </mxCell>
         <mxCell id="n-7tMSdOyZGbc8-vc1UM-83" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-7tMSdOyZGbc8-vc1UM-65" target="n-7tMSdOyZGbc8-vc1UM-62">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
