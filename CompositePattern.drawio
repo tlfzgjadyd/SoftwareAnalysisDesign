@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-14T16:57:29.478Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="34qm1uuAdZcOJXotu6f9" version="13.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-14T17:01:27.672Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="xbYQ_TQlC9azNZop_IFM" version="13.9.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2249" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
         <mxCell id="n-7tMSdOyZGbc8-vc1UM-78" value="+getName():String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=2" vertex="1" parent="n-7tMSdOyZGbc8-vc1UM-5">
           <mxGeometry y="116" width="236" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="n-7tMSdOyZGbc8-vc1UM-39" value="+setName(FileExplorer,String):void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=2" vertex="1" parent="n-7tMSdOyZGbc8-vc1UM-5">
+        <mxCell id="n-7tMSdOyZGbc8-vc1UM-39" value="+setName(FileExplorer, String):void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=2" vertex="1" parent="n-7tMSdOyZGbc8-vc1UM-5">
           <mxGeometry y="148" width="236" height="32" as="geometry" />
         </mxCell>
         <mxCell id="n-7tMSdOyZGbc8-vc1UM-7" value="+display():void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=2" vertex="1" parent="n-7tMSdOyZGbc8-vc1UM-5">
@@ -64,7 +64,7 @@
         <mxCell id="n-7tMSdOyZGbc8-vc1UM-79" value="+getName():String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="n-7tMSdOyZGbc8-vc1UM-11">
           <mxGeometry y="102" width="244" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="n-7tMSdOyZGbc8-vc1UM-40" value="+setName(FileExplorer,String):void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="n-7tMSdOyZGbc8-vc1UM-11">
+        <mxCell id="n-7tMSdOyZGbc8-vc1UM-40" value="+setName(FileExplorer, String):void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="n-7tMSdOyZGbc8-vc1UM-11">
           <mxGeometry y="126" width="244" height="24" as="geometry" />
         </mxCell>
         <mxCell id="n-7tMSdOyZGbc8-vc1UM-37" value="+display():void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="n-7tMSdOyZGbc8-vc1UM-11">
@@ -134,7 +134,7 @@
         <mxCell id="n-7tMSdOyZGbc8-vc1UM-68" value="+getName() : String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="n-7tMSdOyZGbc8-vc1UM-43">
           <mxGeometry y="138" width="220" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="n-7tMSdOyZGbc8-vc1UM-69" value="+setName(FileExplorer, String):void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="n-7tMSdOyZGbc8-vc1UM-43">
+        <mxCell id="n-7tMSdOyZGbc8-vc1UM-69" value="+setName(String):void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="n-7tMSdOyZGbc8-vc1UM-43">
           <mxGeometry y="164" width="220" height="26" as="geometry" />
         </mxCell>
         <mxCell id="n-7tMSdOyZGbc8-vc1UM-47" value="Folder" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#8F8F8F;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -158,7 +158,7 @@
         <mxCell id="n-7tMSdOyZGbc8-vc1UM-76" value="+getName() : String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="n-7tMSdOyZGbc8-vc1UM-47">
           <mxGeometry y="138" width="230" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="n-7tMSdOyZGbc8-vc1UM-77" value="+setName(FileExplorer, String):void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="n-7tMSdOyZGbc8-vc1UM-47">
+        <mxCell id="n-7tMSdOyZGbc8-vc1UM-77" value="+setName(String):void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="n-7tMSdOyZGbc8-vc1UM-47">
           <mxGeometry y="164" width="230" height="26" as="geometry" />
         </mxCell>
         <mxCell id="n-7tMSdOyZGbc8-vc1UM-52" value="" style="ellipse;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -191,7 +191,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="n-7tMSdOyZGbc8-vc1UM-57" value="&lt;font color=&quot;#737373&quot;&gt;&amp;nbsp; public void delete(&lt;/font&gt;&lt;span style=&quot;color: rgb(115 , 115 , 115)&quot;&gt;FileExplorer&lt;/span&gt;&lt;font color=&quot;#737373&quot;&gt;&amp;nbsp;f){&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; delete f from list of explorers&lt;br&gt;&amp;nbsp; }&lt;/font&gt;" style="html=1;align=left;strokeColor=#8F8F8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="710" y="440" width="190" height="46" as="geometry" />
+          <mxGeometry x="710" y="445" width="190" height="46" as="geometry" />
         </mxCell>
         <mxCell id="n-7tMSdOyZGbc8-vc1UM-58" value="" style="ellipse;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="494" y="476" width="10" height="10" as="geometry" />
@@ -205,8 +205,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n-7tMSdOyZGbc8-vc1UM-62" value="&lt;font color=&quot;#737373&quot;&gt;&amp;nbsp; public void setName(&lt;/font&gt;&lt;span style=&quot;color: rgb(115 , 115 , 115)&quot;&gt;FileExplorer&lt;/span&gt;&lt;font color=&quot;#737373&quot;&gt;&amp;nbsp;f, String newName){&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; change name of f to newName&lt;br&gt;&amp;nbsp; }&lt;/font&gt;" style="html=1;align=left;strokeColor=#8F8F8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="610" y="574" width="330" height="45" as="geometry" />
+        <mxCell id="n-7tMSdOyZGbc8-vc1UM-62" value="&lt;font color=&quot;#737373&quot;&gt;&amp;nbsp; public void setName(FileExplorer f,&amp;nbsp;&lt;/font&gt;&lt;font color=&quot;#737373&quot;&gt;String newName){&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;f.setName(newName);&lt;br&gt;&amp;nbsp; }&lt;/font&gt;" style="html=1;align=left;strokeColor=#8F8F8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="574" width="300" height="45" as="geometry" />
         </mxCell>
         <mxCell id="n-7tMSdOyZGbc8-vc1UM-65" value="" style="ellipse;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="496" width="10" height="10" as="geometry" />
@@ -228,7 +228,7 @@
           <mxGeometry x="416" y="514" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="n-7tMSdOyZGbc8-vc1UM-82" value="&lt;font color=&quot;#737373&quot;&gt;&amp;nbsp; public String getName(){&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;for all f in explorers&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;return f.getName();&lt;br&gt;&amp;nbsp; }&lt;/font&gt;" style="html=1;align=left;strokeColor=#8F8F8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="617" y="496" width="210" height="67.5" as="geometry" />
+          <mxGeometry x="617" y="500" width="210" height="63.5" as="geometry" />
         </mxCell>
         <mxCell id="n-7tMSdOyZGbc8-vc1UM-83" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-7tMSdOyZGbc8-vc1UM-65" target="n-7tMSdOyZGbc8-vc1UM-62">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
